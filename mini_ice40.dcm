@@ -1,14 +1,8 @@
-EESchema-DOCLIB  Version 2.0  Date: la  9. huhtikuuta 2016 16.43.25
+EESchema-DOCLIB  Version 2.0
 #
 $CMP HALF_DIP40
 D Symbole general de connexion
 K CONN
-$ENDCMP
-#
-$CMP ICE40HX1K-VQ100
-D spartan 2
-K FPGA
-F xilinx/spartan2e/spartan2e.pdf
 $ENDCMP
 #
 #End Doc Library
