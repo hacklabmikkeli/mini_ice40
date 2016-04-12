@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name mini_ice40)(type KiCad)(uri ${KIPRJMOD}/mini_ice40.pretty)(options "")(descr "Mini_ice40 specific components"))
+)
